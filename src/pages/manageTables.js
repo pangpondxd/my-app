@@ -1,8 +1,8 @@
 import React from 'react'
 import PrintTable from "../components/printTable";
-const ShowTable = () => {
+const ManageTable = () => {
     return (
         <PrintTable />
     )
 }
-export default ShowTable
+export default ManageTable
